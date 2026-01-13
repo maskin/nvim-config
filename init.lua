@@ -3,10 +3,7 @@ vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 
 -- Encoding and Language settings
-vim.opt.encoding = "utf-8"
 vim.opt.fileencoding = "utf-8"
-vim.opt.termencoding = "utf-8"
-vim.scriptencoding = "utf-8"
 vim.opt.ambiwidth = "double" -- Fix for Japanese characters width
 
 -- Basic options
